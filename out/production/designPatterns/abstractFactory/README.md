@@ -7,6 +7,7 @@
     rectangle draw
     square create
     square draw
+    ----------------------
     rounded shape factory create
     rectangle create
     rectangle draw

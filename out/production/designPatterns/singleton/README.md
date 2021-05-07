@@ -1,0 +1,4 @@
+# Singleton Patterns
+
+### Output
+
